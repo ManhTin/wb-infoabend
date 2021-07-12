@@ -37,7 +37,7 @@
     "eslint-plugin-nuxt": "^2.0.0",
     "fibers": "^5.0.0",
     "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-pngquant": "^9.0.1",
+    "imagemin-pngquant": "^9.0.2",
     "responsive-loader": "^2.3.0",
     "sass": "^1.32.7",
     "sass-loader": "10.1.1",
